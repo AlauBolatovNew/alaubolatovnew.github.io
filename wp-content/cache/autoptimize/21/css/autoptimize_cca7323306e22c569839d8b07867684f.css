@@ -14462,7 +14462,7 @@ body.body-style-dark .rprof-after path:nth-child(3) {
 }
 
 .r-glitch .r-glitch-item:nth-child(4) {
-  background-color: #00138d;
+  background-color: black;
   background-blend-mode: overlay;
   animation-name: r-glitch-flash
 }
@@ -14471,7 +14471,7 @@ body.body-style-dark .rprof-after path:nth-child(3) {
 
   0%,
   5% {
-    opacity: .2
+    opacity: 0.6
   }
 
   5.5%,
