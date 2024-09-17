@@ -103,7 +103,7 @@
 }
 
 .fc-calendar .fc-content:hover span.fc-date {
-	background: #78cc6d;
+	background: #0078D4;
 	color: #fff;
 }
 
@@ -134,7 +134,7 @@
 }
 
 .fc-calendar .fc-row > div.fc-today {
-	background: #78cc6d;
+	background: #0078D4;
 }
 
 .fc-calendar .fc-row > div.fc-today > span.fc-date {
@@ -166,7 +166,7 @@
 	padding: 10px;
 	height: 70px;
 	position: relative;
-	border-top: 5px solid #78cc6d;
+	border-top: 5px solid #0078D4;
 	border-bottom: 1px solid #ddd!important;
 }
 
