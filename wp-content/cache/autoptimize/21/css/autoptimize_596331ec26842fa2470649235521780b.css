@@ -1273,14 +1273,14 @@ form.submitting .wpcf7-spinner {
 
 @font-face {
   font-family: star;
-  src: url(../../../../plugins/woocommerce/assets/fonts/WooCommerce.woff2) format("woff2"), url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff) format("woff"), url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.ttf) format("truetype");
+  src: url(../../../../plugins/woocommerce/assets/fonts/WooCommerce.woff2) format("woff2"), url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff) format("woff"), url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.ttf) format("truetype");
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: WooCommerce;
-  src: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff2) format("woff2"), url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff) format("woff"), url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.ttf) format("truetype");
+  src: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff2) format("woff2"), url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.woff) format("woff"), url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../fonts/WooCommerce.ttf) format("truetype");
   font-weight: 400;
   font-style: normal
 }
@@ -1341,7 +1341,7 @@ p.demo_store a {
   margin-top: -.5em;
   content: "";
   animation: spin 1s ease-in-out infinite;
-  background: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/loader.svg) center center;
+  background: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/loader.svg) center center;
   background-size: cover;
   line-height: 1;
   text-align: center;
@@ -1360,7 +1360,7 @@ p.demo_store a {
   margin-top: -.5em;
   content: "";
   animation: spin 1s ease-in-out infinite;
-  background: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/loader.svg) center center;
+  background: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/loader.svg) center center;
   background-size: cover;
   line-height: 1;
   text-align: center;
@@ -3931,7 +3931,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.visa,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.visa,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.visa {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/visa.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/visa.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard,
@@ -3943,7 +3943,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.mastercard {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/mastercard.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/mastercard.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.laser,
@@ -3955,7 +3955,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.laser,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.laser,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.laser {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/laser.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/laser.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub,
@@ -3967,7 +3967,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.dinersclub {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/diners.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/diners.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.maestro,
@@ -3979,7 +3979,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.maestro,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.maestro,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.maestro {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/maestro.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/maestro.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.jcb,
@@ -3991,7 +3991,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.jcb,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.jcb,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.jcb {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/jcb.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/jcb.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.amex,
@@ -4003,7 +4003,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.amex,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.amex,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.amex {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/amex.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/amex.svg)
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.discover,
@@ -4015,7 +4015,7 @@ p.demo_store a {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.discover,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.discover,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.discover {
-  background-image: url(//alau.dev/game-developer/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/discover.svg)
+  background-image: url(//alau.dev/wp-content/plugins/woocommerce/assets/css/../images/icons/credit-cards/discover.svg)
 }
 
 #add_payment_method #payment div.payment_box span.help,
@@ -10872,7 +10872,7 @@ a.next.page-numbers:hover {
   right: 0;
   width: 50px;
   height: 50px;
-  background: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
+  background: url(//alau.dev/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
   background-size: 18px 18px;
   font-size: 0;
   border: none
@@ -10880,7 +10880,7 @@ a.next.page-numbers:hover {
 
 .search-form input.search-submit:hover,
 .wp-block-search .wp-block-search__button:hover {
-  background: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
+  background: url(//alau.dev/wp-content/themes/ryancv/assets/images/android-search.png) no-repeat center center;
   background-size: 18px 18px
 }
 
@@ -13375,7 +13375,7 @@ body.page-template-elementor_canvas {
 .body-style-textured .custom-footer,
 .body-style-textured .mfp-wrap.popup-box-inline,
 .body-style-textured .preloader {
-  background-image: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg) !important;
+  background-image: url(//alau.dev/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg) !important;
   background-size: 50px 50px !important
 }
 
@@ -13974,7 +13974,7 @@ td {
 .textured-icons-style .fuct-items .fuct-item .icon,
 .textured-icons-style .resume-title .icon,
 .textured-icons-style .skill-title .icon {
-  background-image: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
+  background-image: url(//alau.dev/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
   background-size: 50px 50px
 }
 
@@ -14005,18 +14005,18 @@ body.body-style-dark .textured-icons-style .pricing-items .pricing-item .icon,
 body.body-style-dark .textured-icons-style .fuct-items .fuct-item .icon,
 body.body-style-dark .textured-icons-style .resume-title .icon,
 body.body-style-dark .textured-icons-style .skill-title .icon {
-  background-image: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
+  background-image: url(//alau.dev/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
   background-size: 50px 50px
 }
 
 @media (max-width:680px) {
   .theme-style-textured .header {
-    background-image: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
+    background-image: url(//alau.dev/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
     background-size: 50px 50px
   }
 
   body.body-style-dark .theme-style-textured .header {
-    background-image: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
+    background-image: url(//alau.dev/wp-content/themes/ryancv/assets/images/noise-texture-dark.svg);
     background-size: 50px 50px
   }
 }
@@ -14798,7 +14798,7 @@ body.body-style-dark .rprof-after path:nth-child(3) {
   position: absolute;
   width: 14px;
   height: 14px;
-  background: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/images/quote.svg) no-repeat;
+  background: url(//alau.dev/wp-content/themes/ryancv/assets/images/quote.svg) no-repeat;
   background-size: contain;
   opacity: .65;
   left: auto;
@@ -16392,7 +16392,7 @@ Tags: editor-style, featured-images, sticky-post, threaded-comments, translation
 @font-face {
   font-family: "Ionicons";
   src: url(../../../../themes/ryancv/assets/fonts/ionicons790f.eot?v=2.0.1);
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../fonts/ionicons.eot?v=2.0.1#iefix) format("embedded-opentype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../fonts/ionicons.ttf?v=2.0.1) format("truetype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../fonts/ionicons.woff?v=2.0.1) format("woff"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../fonts/ionicons.svg?v=2.0.1#Ionicons) format("svg");
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../fonts/ionicons.eot?v=2.0.1#iefix) format("embedded-opentype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../fonts/ionicons.ttf?v=2.0.1) format("truetype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../fonts/ionicons.woff?v=2.0.1) format("woff"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../fonts/ionicons.svg?v=2.0.1#Ionicons) format("svg");
   font-weight: 400;
   font-style: normal;
   font-display: swap
@@ -31145,7 +31145,7 @@ button.swiper-pagination-bullet {
   font-weight: 400;
   font-display: block;
   src: url(../../../../themes/ryancv/assets/webfonts/fa-brands-400.eot);
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.woff2) format("woff2"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.woff) format("woff"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.ttf) format("truetype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.svg#fontawesome) format("svg")
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.woff2) format("woff2"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.woff) format("woff"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.ttf) format("truetype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -31158,8 +31158,8 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.eot);
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.woff2) format("woff2"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.woff) format("woff"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.ttf) format("truetype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.svg#fontawesome) format("svg")
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.eot);
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.woff2) format("woff2"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.woff) format("woff"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.ttf) format("truetype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .far {
@@ -31172,8 +31172,8 @@ button.swiper-pagination-bullet {
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.eot);
-  src: url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.woff2) format("woff2"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.woff) format("woff"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.ttf) format("truetype"), url(//alau.dev/game-developer/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.svg#fontawesome) format("svg")
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.eot);
+  src: url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.woff2) format("woff2"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.woff) format("woff"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.ttf) format("truetype"), url(//alau.dev/wp-content/themes/ryancv/assets/css/../webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,
